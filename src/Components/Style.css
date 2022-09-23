@@ -52,24 +52,7 @@
     height: auto;
 }
 
-.articleimg {
 
-    width: 90%;
-    height: 50vh;
-    margin: auto;
-    background-image: url("https://cdn.pixabay.com/photo/2016/10/18/08/13/travel-1749508__340.jpg");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    gap: 50;
-    color: white;
-}
-.articleimg p{
-    color:white;
-}
 .artflex {
     display: flex;
     width: 100%;

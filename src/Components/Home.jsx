@@ -38,10 +38,7 @@ const Home = () => {
             />
           ))}
 
-          <div className="articleimg">
-            <h1>Title of the Vertical gallery</h1>
-            <p>31 Dec 2022</p>
-          </div>
+          
         </div>
         <div className="leftArticle">
          
