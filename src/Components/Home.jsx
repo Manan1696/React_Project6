@@ -42,7 +42,7 @@ const Home = () => {
         </div>
         <div className="leftArticle">
          
-          <Title title="Top Posts" />
+          <Title title="Top News" />
           <div>
             {/* <Latest /> */}
               key={Data[0].id}
