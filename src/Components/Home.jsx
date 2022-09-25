@@ -1,6 +1,7 @@
 import React from "react";
 import Data from "./Data";
 import Articles from "./Articles";
+import Latest from "./Latest";
 import "./Style.css";
 import Title from "./Title";
 
@@ -42,15 +43,16 @@ const Home = () => {
         </div>
         <div className="leftArticle">
          
-          <Title title="Top News" />
+          <Title title="Top Posts" />
           <div>
             {/* <Latest /> */}
+            <Latest
               key={Data[0].id}
               title={Data[0].Title}
               img={Data[0].image}
               category={Data[0].Category}
               date={Data[0].Date}
-            /{" "}
+            />{" "}
             <Articles
               key={Data[0].id}
               title={Data[0].Title}

@@ -1,9 +1,8 @@
-
 const Data = [{
-  
+    
 
     id:1,
-    image:"https://qqcdnpictest.mxplay.com/pic/5101b43a2d69c5b3af816f8ca932d39a/en/16x9/640x360/test_pic1638540896331.jpg",
+    image:"https://i.ytimg.com/vi/kUhBAp7pGqc/maxresdefault.jpg",
     Title:"Dhol",
     Description:"Four lazy friends want to make easy money and aim to marry a rich girl. Their plan backfires after they meet Ritu and get embroiled with a dangerous criminal.",
     Date:"10 July 2007 (India)",
@@ -248,6 +247,7 @@ const Data = [{
     Category:"Technology",
     Date:" 26 April 2019 (India)",
 },
+
 
 
 ]

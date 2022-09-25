@@ -31,12 +31,15 @@
 
 .rightimg {
     width: 40%;
-    height: 100%;
+    height: 93%;
+    
 }
 
 .rightimg img {
     width: 100%;
     height: 50%;
+    border-radius: 10px;
+
 }
 
 .articleData {
